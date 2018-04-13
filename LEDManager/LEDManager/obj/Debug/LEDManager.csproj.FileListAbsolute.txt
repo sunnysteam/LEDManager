@@ -1,0 +1,15 @@
+F:\SourceCode\LEDManager\LEDManager\LEDManager\bin\Debug\LEDManager.exe.config
+F:\SourceCode\LEDManager\LEDManager\LEDManager\bin\Debug\LEDManager.exe
+F:\SourceCode\LEDManager\LEDManager\LEDManager\bin\Debug\LEDManager.pdb
+F:\SourceCode\LEDManager\LEDManager\LEDManager\obj\Debug\LEDManager.csprojResolveAssemblyReference.cache
+F:\SourceCode\LEDManager\LEDManager\LEDManager\obj\Debug\MainWindow.g.cs
+F:\SourceCode\LEDManager\LEDManager\LEDManager\obj\Debug\App.g.cs
+F:\SourceCode\LEDManager\LEDManager\LEDManager\obj\Debug\LEDManager_MarkupCompile.cache
+F:\SourceCode\LEDManager\LEDManager\LEDManager\obj\Debug\LEDManager_MarkupCompile.lref
+F:\SourceCode\LEDManager\LEDManager\LEDManager\obj\Debug\MainWindow.baml
+F:\SourceCode\LEDManager\LEDManager\LEDManager\obj\Debug\LEDManager.g.resources
+F:\SourceCode\LEDManager\LEDManager\LEDManager\obj\Debug\LEDManager.Properties.Resources.resources
+F:\SourceCode\LEDManager\LEDManager\LEDManager\obj\Debug\LEDManager.csproj.GenerateResource.cache
+F:\SourceCode\LEDManager\LEDManager\LEDManager\obj\Debug\LEDManager.csproj.CoreCompileInputs.cache
+F:\SourceCode\LEDManager\LEDManager\LEDManager\obj\Debug\LEDManager.exe
+F:\SourceCode\LEDManager\LEDManager\LEDManager\obj\Debug\LEDManager.pdb
